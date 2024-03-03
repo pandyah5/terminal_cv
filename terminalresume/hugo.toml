@@ -1,0 +1,6 @@
+baseURL = 'https://terminalresume.github.io/'
+relativeURLs = true
+languageCode = 'en-us'
+title = 'HPs Terminal Resume'
+
+theme="terminalcv"
